@@ -39,7 +39,7 @@ const VendorSwiper = ({items}: any) => {
                 breakpoints={{
                     0: {
                         slidesPerView: 6,
-                        slidesPerGroup: 6
+                        slidesPerGroup: 3
                     },
                     // 400: {
                     //     slidesPerView: 2.2,
