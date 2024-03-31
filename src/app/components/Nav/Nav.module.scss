@@ -1,0 +1,16 @@
+.nav{
+    height: 55px;
+    display: flex;
+    padding: 0 15px;
+    color: #B5B5B5;
+    background: #F3F3F3;
+    align-items: center;
+    justify-content: flex-end;
+
+    &__leave{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        cursor: pointer;
+    }
+}
